@@ -16,8 +16,6 @@ After comprehensive testing and analysis, we discovered that the RoBERTa-large m
 
 Next, we further pushed the boundaries by employing advanced optimization techniques such as Cython and Multiprocessing. These strategies substantially reduced our preprocessing time by 49.36%, SVM training time by 99.91%, and RoBERTa model training time by 36.48%. These steps significantly enhanced our runtime efficiency.
 
-The culmination of these multi-pronged strategies ensured our model's top-tier performance, propelling us into the top 3% out of 1200 teams in the Kaggle competition.
-
 ## Code
 - The Jupyter notebook NLPDT-SVM.ipynb contains our code part using SVM approach.
 - The Jupyter notebook NLPDT-T.ipynb contains our code part using functions and models in Transformers Library to approach the problem.
